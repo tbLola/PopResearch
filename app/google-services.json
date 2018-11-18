@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "182354516254",
+    "firebase_url": "https://mobilehackathon2018.firebaseio.com",
+    "project_id": "mobilehackathon2018",
+    "storage_bucket": "mobilehackathon2018.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:182354516254:android:4dd29c3da7bfe1cc",
+        "android_client_info": {
+          "package_name": "com.showtime.popresearch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "182354516254-gg82j3u5v84lscfm6t0rinvho92i2oe5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6SP5Z0fQbGC4f-0wAa4ZxuYSQPidTG9c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
